@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://hitmweb.com/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
